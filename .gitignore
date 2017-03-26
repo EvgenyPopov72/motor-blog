@@ -3,3 +3,5 @@
 cache/
 log/
 motor_blog.conf
+.env
+
